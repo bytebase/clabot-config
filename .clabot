@@ -11,7 +11,7 @@
     "RainbowDashy",
     "tianzhou",
     "xiaoluoboding",
-    "zhouzilong2020",
+    "zhouzilong2020"
   ],
   "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please add your name to [contributors list](https://github.com/bytebase/clabot-config/blob/main/.clabot).",
   "label": "cla-signed",
