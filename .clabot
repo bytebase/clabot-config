@@ -2,7 +2,7 @@
   "contributors": [
     "d-bytebase"
   ],
-  "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please sign [CLA](https://forms.gle/YnmetmopXNxFxsDUA) to get yourself added.",
+  "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please add your name to [contributors list](https://github.com/bytebase/clabot-config/blob/main/.clabot).",
   "label": "cla-signed",
   "recheckComment": "The GitHub CLA Bot is rechecking to see that you have signed the CLA"
 }
