@@ -58,7 +58,8 @@
     "Akrista",
     "mfridman",
     "bun4uk",
-    "zlhgo"
+    "zlhgo",
+    "nashtsai"
   ],
   "message": "We require contributors to sign our Contributor License Agreement, and we don't have yours on file. In order for us to review and merge your code, please please sign [CLA](https://forms.gle/zcNM9TL1iVU1fQ1G9) and add your name to [contributors list](https://github.com/bytebase/clabot-config/blob/main/.clabot).",
   "label": "cla-signed",
