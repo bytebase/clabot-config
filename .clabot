@@ -3,6 +3,7 @@
     "dependabot[bot]",
     "github-actions[bot]",
     "renovate[bot]",
+    "hermeztrismez-rgb",
     "adela-bytebase",
     "boojack",
     "Candybase",
